@@ -1,0 +1,11 @@
+C:\Users\Dawg\Desktop\Ljajic sa penala\ljajic_sa_penala\ljajic_sa_penala\bin\Debug\ljajic_sa_penala.exe
+C:\Users\Dawg\Desktop\Ljajic sa penala\ljajic_sa_penala\ljajic_sa_penala\bin\Debug\ljajic_sa_penala.pdb
+C:\Users\Dawg\Desktop\Ljajic sa penala\ljajic_sa_penala\ljajic_sa_penala\obj\x86\Debug\ljajic_sa_penala.Form1.resources
+C:\Users\Dawg\Desktop\Ljajic sa penala\ljajic_sa_penala\ljajic_sa_penala\obj\x86\Debug\ljajic_sa_penala.Properties.Resources.resources
+C:\Users\Dawg\Desktop\Ljajic sa penala\ljajic_sa_penala\ljajic_sa_penala\obj\x86\Debug\ljajic_sa_penala.exe
+C:\Users\Dawg\Desktop\Ljajic sa penala\ljajic_sa_penala\ljajic_sa_penala\obj\x86\Debug\ljajic_sa_penala.pdb
+C:\Users\Dawg\Desktop\Ljajic sa penala\ljajic_sa_penala\ljajic_sa_penala\obj\x86\Debug\ljajic_sa_penala.Form2.resources
+C:\Users\Dawg\Desktop\Ljajic sa penala\ljajic_sa_penala\ljajic_sa_penala\obj\x86\Debug\ljajic_sa_penala.frmTipovi.resources
+C:\Users\Dawg\Desktop\Ljajic sa penala\ljajic_sa_penala\ljajic_sa_penala\obj\x86\Debug\ljajic_sa_penala.brisanjeTipaYN.resources
+C:\Users\Dawg\Desktop\Ljajic sa penala\ljajic_sa_penala\ljajic_sa_penala\obj\x86\Debug\ljajic_sa_penala.csprojResolveAssemblyReference.cache
+C:\Users\Dawg\Desktop\Ljajic sa penala\ljajic_sa_penala\ljajic_sa_penala\obj\x86\Debug\ljajic_sa_penala.csproj.GenerateResource.Cache
